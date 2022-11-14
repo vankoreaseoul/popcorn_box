@@ -1,5 +1,5 @@
 # POPCORN BOX
-
+pdf link: https://drive.google.com/file/d/1b6cu623qnkQe3yj7p4eSGZpEXloqL7h8/view?usp=share_link
 ## 영화 평점 웹 사이트 
 
 ### 목차
